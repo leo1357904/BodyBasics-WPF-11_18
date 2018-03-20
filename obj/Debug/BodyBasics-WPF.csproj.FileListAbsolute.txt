@@ -1,0 +1,138 @@
+C:\Users\Nixy\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Nixy\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Nixy\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\MainWindow.baml
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\MainWindow.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\App.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\USER\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\MainWindow.baml
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\MainWindow.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\App.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_19\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\MainWindow.baml
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\MainWindow.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\App.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_23\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\MainWindow.baml
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\MainWindow.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\App.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\MainWindow.baml
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\MainWindow.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\App.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF-11_25\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\MainWindow.baml
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\MainWindow.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\App.g.cs
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Nixy\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\USER\Desktop\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+D:\林庭陞\四上\專題\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\林庭陞\四上\專題\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.exe
+D:\林庭陞\四上\專題\BodyBasics-WPF_Master\BodyBasics-WPF-11_24\BodyBasics-WPF 11_18\obj\Debug\BodyBasics-WPF.pdb

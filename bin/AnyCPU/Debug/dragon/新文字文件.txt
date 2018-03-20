@@ -1,0 +1,139 @@
+ <Image x:Name="dragonImg"  HorizontalAlignment="Center" Stretch="Uniform" VerticalAlignment="Bottom" Grid.Row="2" />
+        <Image x:Name="fireImg"  HorizontalAlignment="Center" Stretch="Uniform" VerticalAlignment="Bottom" Grid.Row="2" />
+
+
+//28
+
+    public class dragon
+    {
+        Uri dragonfireUri;
+        public int draw_cnt;
+        public int move;
+        public bool appear;
+        int period;
+        public dragon()
+        {
+            draw_cnt = 0;
+            period = 0;
+            move = 0;
+            appear = false;
+        }
+
+        public void dragon_come()
+        { 
+            period++;
+            if (appear == false)
+            {
+                byte[] bytes = new byte[100];
+                Random rnd = new Random();
+                rnd.NextBytes(bytes);
+                if (bytes[0] % 255 == 0)
+                {
+                    appear = true;
+                }
+
+            }
+            else if (draw_cnt == 150 &&period==500)
+            {
+                draw_cnt = 0;
+                period=0;
+                appear = false;
+            }
+
+            if (appear)
+            {
+                draw_cnt++;
+            }
+        }
+        public BitmapSource Drawing(char x)
+        {
+            if (appear)
+            {
+                if (x == 'd')
+                {
+                    if (draw_cnt < 25 | draw_cnt > 90)
+                    {
+                        dragonfireUri = new Uri("dragon/dragon1.png", UriKind.RelativeOrAbsolute);
+                        if (draw_cnt > 0 && draw_cnt < 20)
+                        {
+                            move += 40;
+                        }
+                        if (draw_cnt > 90 && draw_cnt < 90 + 20)
+                        {
+                            move -= 40;
+                        }
+                    }
+                    else if (draw_cnt < 30 | (draw_cnt > 85 && draw_cnt <= 90))
+                    {
+                        dragonfireUri = new Uri("dragon/dragon2.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else if (draw_cnt < 35 | (draw_cnt > 80 && draw_cnt <= 85))
+                    {
+                        dragonfireUri = new Uri("dragon/dragon3.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else if (draw_cnt <= 80)
+                    {
+                        dragonfireUri = new Uri("dragon/dragon4.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else
+                    {
+                        dragonfireUri = new Uri("hp0.png", UriKind.RelativeOrAbsolute);
+                    }
+                }
+                else
+                {
+                    if (draw_cnt < 35 | draw_cnt > 80)
+                    {
+                        dragonfireUri = new Uri("hp0.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else if (draw_cnt < 37 | draw_cnt == 79 | draw_cnt == 80)
+                    {
+                        dragonfireUri = new Uri("dragon/little_fire1.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else if (draw_cnt < 39 | draw_cnt == 77 | draw_cnt == 78)
+                    {
+                        dragonfireUri = new Uri("dragon/little_fire2.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else if (draw_cnt == 45)
+                    {
+                        dragonfireUri = new Uri("dragon/fire1.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else if (draw_cnt % 6 < 4)
+                    {
+                        dragonfireUri = new Uri("dragon/fire2.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else if (draw_cnt % 6 < 6)
+                    {
+                        dragonfireUri = new Uri("dragon/fire3.png", UriKind.RelativeOrAbsolute);
+                    }
+                    else
+                    {
+                        dragonfireUri = new Uri("hp0.png", UriKind.RelativeOrAbsolute);
+                    }
+                }
+            }
+            else
+            {
+                dragonfireUri = new Uri("hp0.png", UriKind.RelativeOrAbsolute);
+            }
+
+            PngBitmapDecoder dragonfireDecoder = new PngBitmapDecoder(dragonfireUri, BitmapCreateOptions.PreservePixelFormat, BitmapCacheOption.Default);
+            BitmapSource dragonfireSource = dragonfireDecoder.Frames[0];
+            return dragonfireSource;
+        }
+    }
+
+
+//1585
+// dragon 
+                        dragonA.dragon_come();
+                        dragonImg.Source = dragonA.Drawing('d');
+                        dragonImg.Margin = new Thickness(1031- dragonA.move, 0, 0, 0);//+800
+                        fireImg.Source = dragonA.Drawing('f');
+                        fireImg.Margin = new Thickness(0, 0, 190, 0);
+                       // str.Text = dragonA.draw_cnt.ToString();
+                        if (dragonA.draw_cnt == 45 && time_invincible == 0)
+                        {
+                            mario.hp--;
+                            time_invincible++;
+                        }
